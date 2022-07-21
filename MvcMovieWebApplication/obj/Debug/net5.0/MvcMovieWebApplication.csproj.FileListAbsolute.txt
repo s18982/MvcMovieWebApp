@@ -39,3 +39,4 @@ C:\Users\Fifi\Desktop\MvcMovieWebApp\MvcMovieWebApplication\obj\Debug\net5.0\Mvc
 C:\Users\Fifi\Desktop\MvcMovieWebApp\MvcMovieWebApplication\obj\Debug\net5.0\MvcMovieWebApplication.genruntimeconfig.cache
 C:\Users\Fifi\Desktop\MvcMovieWebApp\MvcMovieWebApplication\obj\Debug\net5.0\MvcMovieWebApplication.csproj.CopyComplete
 C:\Users\Fifi\Desktop\MvcMovieWebApp\MvcMovieWebApplication\obj\Debug\net5.0\Razor\Views\HomeWorld\Index.cshtml.g.cs
+C:\Users\Fifi\Desktop\MvcMovieWebApp\MvcMovieWebApplication\obj\Debug\net5.0\Razor\Views\HomeWorld\Welcome.cshtml.g.cs
